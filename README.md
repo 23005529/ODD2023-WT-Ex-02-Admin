@@ -20,7 +20,8 @@ Create a Django website with five users. Two users are to be staff users (includ
 
 4. Setting the first name and last name for all users
 
-![Alt text](admin.png)
+![Screenshot 2023-10-26 110635](https://github.com/23005529/ODD2023-WT-Ex-02-Admin/assets/139842207/42d2a215-cc99-4e6d-9e16-b2150d507570)
+
 
 ## Releases
 No releases published
